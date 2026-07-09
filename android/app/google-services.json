@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389208310689",
+    "project_id": "life-savior-1f9b0",
+    "storage_bucket": "life-savior-1f9b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389208310689:android:5bd06d8e1c9f2c45b041e0",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmFrNT4O6DBI-TgF2-NNPD665Eq7nlU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
